@@ -1,3 +1,3 @@
 # htlatex-prettify
 
-Deprecated: moved to htlprettify
+Deprecated: renamed to htlprettify, in accordance with python package naming conventions
